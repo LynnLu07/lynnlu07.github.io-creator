@@ -11,7 +11,7 @@ draft: false
 
 [JavaScript→style→layout→paint→composite](https://developers.google.com/web/fundamentals/performance/rendering/)
 
-样式计算style。此过程是根据匹配选择器，例如 `.headline` 或 `.nav > .nav__item`计算出哪些元素应用哪些 CSS规则的过程。从中知道规则之后，将应用规则并计算每个元素的最终样式。
+样式计算style。此过程是根据匹配选择器，例如 `.headline` 或 `.nav > .nav__item`计算出哪些元素应用哪些 CSS规则的过程。从中知道规则之后，将应用规则并计算每个元素的最终样式。 
     
 布局layout。在知道对一个元素应用哪些规则之后，浏览器即可开始计算它要占据的空间大小及其在屏幕的位置。
 
@@ -133,7 +133,7 @@ animation:时长 过渡方式 延迟 次数 方向 填充模式 是否暂停 动
 
 [keyframes的MDN文档](https://developer.mozilla.org/en-US/docs/Web/CSS/@keyframes)
 
-keyfames可以写from to，也可以写百分数。
+keyfames可以写from to，也可以写百分数，百分数使用较多。
 ![](https://user-gold-cdn.xitu.io/2019/10/5/16d9a655f4f03786?w=1453&h=564&f=png&s=236593)
 
 [示例]( http://js.jirengu.com/tarasiraxu/1/edit?html,css,output)
