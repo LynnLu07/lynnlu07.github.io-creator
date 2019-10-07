@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "http://localhost:1313/"
 languageCode = "zh-Hans"
 title = "我的博客"
 theme = "hugo-tranquilpeak-theme"
