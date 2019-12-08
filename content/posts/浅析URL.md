@@ -1,7 +1,7 @@
 ---
 title: "浅析URL"
 date: 2019-10-08T22:35:46+08:00
-draft: true
+draft: false
 ---
 
 ### 1. URL 包含哪几部分，每部分分别有什么作用?
